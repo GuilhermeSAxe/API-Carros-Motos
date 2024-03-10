@@ -1,6 +1,6 @@
 <h1 align="center">API-Carros-Motos</h1>
 
-<img src ="Capa_readme.jpeg">
+<img aling='center' src ="Capa_readme.jpeg">
 
 <h2>Descriçao do Projeto</h2>
 
